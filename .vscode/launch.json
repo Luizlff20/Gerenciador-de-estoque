@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "app-stock-manager",
+            "request": "launch",
+            "type": "dart",
+            "console": "externalTerminal"
+        },
+        {
+            "name": "app-stock-manager (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile",
+            "console": "externalTerminal"
+        },
+        {
+            "name": "app-stock-manager (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release",
+            "console": "externalTerminal"
+        }
+    ]
+}

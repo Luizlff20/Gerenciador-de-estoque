@@ -1,0 +1,1 @@
+# app-stock-manager
